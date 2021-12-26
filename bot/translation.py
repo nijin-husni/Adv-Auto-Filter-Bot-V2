@@ -12,6 +12,25 @@ My github: https://github.com/nijin-husni
 For More Details Click Help Button 💞..
 @nijinhusni
 </i>"""    
+  
+    MENU_TEXT = """<b>HI MWONUSE {}!!</b>
+<i>╔✘          ꪶ͢💝ᴍᴀᴀʟᴜᴛᴛʏ💝ꫂ⁩
+║✘              
+║✘╔════╗╔═╗╔══╗╔╗╔╗╔╗
+║✘║╔╗╔╗║║═╝║╔╗║║║║║║║
+║✘║║║║║║║═╗║║║╚╝║║╚╝║
+║✘╚╝╚╝╚╝╚═╝╚╝╚══╝╚══╝
+║✘        
+║✘
+║✘▢ ᴅᴇᴠᴇʟᴏʟᴇʀ : ꪶ͢ʜᴜsɴɪ ɴɪᴊɪɴꫂ
+║✘▢ ʙᴏᴛ  :   ꪶ͢💝ᴍᴀᴀʟᴜᴛᴛʏ_ᴠ3💝ꫂ⁩
+║✘▢ ᴠᴇʀsɪᴏɴ : 3.0
+║✘▢ ᴍᴏᴅᴇ : public
+║✘▢ ᴘʀᴇғɪx : /
+║✘
+║✘ © @nijinhusni
+╚✘ ═════ꪶ͢ʜᴜsɴɪ ɴɪᴊɪɴꫂ═════✘
+</i>"""    
     
     HELP_TEXT = """
 <b><i><u>How To Use Me!?</u></i></b>
