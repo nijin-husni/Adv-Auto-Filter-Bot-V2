@@ -13,22 +13,27 @@
     "env": {
         "APP_ID": {
             "description": "Your APP ID From my.telegram.org or @UseTGXBot",
+            "required": false,
             "value": ""
         },
         "API_HASH": {
             "description": "Your API Hash From my.telegram.org or @UseTGXBot",
+            "required": false,
             "value": ""
         },
         "BOT_TOKEN": {
             "description": "Your Bot Token From @BotFather",
+            "required": false,
             "value": ""
         },
         "DB_URI": {
             "description": "Your Mongo DB URL Obtained From mongodb.com",
+            "required": false,
             "value": ""
         },
         "USER_SESSION": {
             "description": "A Pyrogram User Session String. Generated From @PyrogramStringBot",
+            "required": false,
             "value": ""
         }
     },
