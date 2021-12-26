@@ -70,3 +70,11 @@ For More Details Click Help Button 💞..
 <b>║✘ </b>@nijinhusni
 <b>╚✘</b>
 """
+
+    START_TEXT = """<b>HI MWONUSE {}!!</b>
+<i>╭───𒆜𝙊𝙒𝙉𝙀𝙍𝙎𒆜
+│🥂 <b><i><a href="https://t.me/nijinhusni">ꪶ͢ɴɪᴊɪɴꫂ⁩</a></i></b>
+│
+│🥂 <b><i><a href="https://t.me/nijinhusni">ꪶ͢ʜᴜsɴɪꫂ</a></i></b>
+╰───────────────𒈒
+</i>"""    
