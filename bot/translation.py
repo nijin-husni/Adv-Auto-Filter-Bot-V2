@@ -4,13 +4,13 @@
 
 class Translation(object):
     
-    START_TEXT = """<b>Hey {}!!</b>
-<i>Am Just A Advance Auto Filter Bot....😉
+    START_TEXT = """<b>HI MWONUSE {}!!</b>
+<i>Am nijin husnis Maalutty Bot....😉
 
-Just Add Me To Your Group And Channel And Connect Them And See My Pevers 🔥🔥😝
+My github: https://github.com/nijin-husni
 
-For More Details Click Help Button Below..
-@CrazyBotsz
+For More Details Click Help Button 💞..
+@nijinhusni
 </i>"""    
     
     HELP_TEXT = """
