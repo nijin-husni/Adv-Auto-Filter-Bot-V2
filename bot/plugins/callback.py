@@ -1688,6 +1688,36 @@ async def callback_data(bot, update: CallbackQuery):
             reply_markup=reply_markup,
             parse_mode="html"
         )
+        
+        
+    elif query_data == "menu": 
+        buttons = [[
+            InlineKeyboardButton('Owner🥂', callback_data='owner'),
+            InlineKeyboardButton('Close 🔐', callback_data='close')
+        ]]
+        
+        reply_markup = InlineKeyboardMarkup(buttons)
+        
+        await update.message.edit_text(
+            Translation.MENU_TEXT,
+            reply_markup=reply_markup,
+            parse_mode="html"
+        )
+        
+        
+    elif query_data == "owner": 
+        buttons = [[
+            InlineKeyboardButton('menu💞', callback_data='menu'),
+            InlineKeyboardButton('Close 🔐', callback_data='close')
+        ]]
+        
+        reply_markup = InlineKeyboardMarkup(buttons)
+        
+        await update.message.edit_text(
+            Translation.OWNER_TEXT,
+            reply_markup=reply_markup,
+            parse_mode="html"
+        )
 
 
     elif query_data == "close":
