@@ -57,24 +57,27 @@ For More Details Click Help Button 💞..
 <b>➥ Source Code</b> : <i><a href="https://github.com/AlbertEinsteinTG/Adv-Auto-Filter-Bot">Click Me</a></i>
 """
 
-    MENU_TEXT = """<b>║✘╔════╗╔═╗╔══╗╔╗╔╗╔╗</b>
-<b>║✘║╔╗╔╗║║═╝║╔╗║║║║║║║</b>
-<b>║✘║║║║║║║═╗║║║╚╝║║╚╝║</b>
-<b>║✘╚╝╚╝╚╝╚═╝╚╝╚══╝╚══╝</b>
-<b>║✘</b>
-<b>║✘▢ ᴅᴇᴠᴇʟᴏʟᴇʀ</b> : <b><i><a href="https://t.me/nijinhusni">ꪶ͢ʜᴜsɴɪ ɴɪᴊɪɴꫂ</a></i></b>
-<b>║✘▢ ʙᴏᴛ</b>  : <code>ꪶ͢💝ᴍᴀᴀʟᴜᴛᴛʏ_ᴠ3💝ꫂ⁩<code>
-<b>║✘▢ ᴠᴇʀsɪᴏɴ</b> : <code>1.0<code>
-<b>║✘▢ ᴘʀᴇғɪx</b> : <code>/<code>
-<b>║✘</b>
-<b>║✘ </b>@nijinhusni
-<b>╚✘</b>
+    MENU_TEXT = """</b>║✘╔════╗╔═╗╔══╗╔╗╔╗╔╗
+║✘║╔╗╔╗║║═╝║╔╗║║║║║║║
+║✘║║║║║║║═╗║║║╚╝║║╚╝║
+║✘╚╝╚╝╚╝╚═╝╚╝╚══╝╚══╝
+║✘
+║✘▢ ᴅᴇᴠᴇʟᴏʟᴇʀ : <i><a href="https://t.me/nijinhusni">ꪶ͢ʜᴜsɴɪ ɴɪᴊɪɴꫂ</a></i>
+║✘▢ ʙᴏᴛ  : ꪶ͢💝ᴍᴀᴀʟᴜᴛᴛʏ_ᴠ3💝ꫂ⁩
+║✘▢ ᴠᴇʀsɪᴏɴ : 
+║✘▢ ᴘʀᴇғɪx : /
+║✘
+║✘ @nijinhusni
+╚✘
+</b>
+"""
 """
 
-    OWNER_TEXT = """<b>HI MWONUSE {}!!</b>
-<i>╭───𒆜𝙊𝙒𝙉𝙀𝙍𝙎𒆜
+    OWNER_TEXT = """<b>HI MWONUSE</b>
+</b>╭───𒆜𝙊𝙒𝙉𝙀𝙍𝙎𒆜
 │🥂 <b><i><a href="https://t.me/nijinhusni">ꪶ͢ɴɪᴊɪɴꫂ⁩</a></i></b>
 │
 │🥂 <b><i><a href="https://t.me/nijinhusni">ꪶ͢ʜᴜsɴɪꫂ</a></i></b>
 ╰───────────────𒈒
-</i>"""    
+</b>
+"""    
